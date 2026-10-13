@@ -15,4 +15,7 @@ Inicio
   SiNo 
     Escribir "Maximo 4 datos"
   Fin_Mientras
+  Presentar
+  Suma 
+  Media aritmetica
 Fin
