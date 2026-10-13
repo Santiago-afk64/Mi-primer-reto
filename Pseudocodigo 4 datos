@@ -1,0 +1,18 @@
+Algoritmo: Calculo_Suma y Media Aritmetica()
+Inicio 
+  Definir d como reales
+  Escribir "Ingrese dato 1"
+   Leer dato 1
+  Escribir "Ingrese dato 2"
+   Leer dato 2
+  Escribir "Ingrese dato 3"
+   Leer dato 3
+  Escribir "Ingrese dato 4"
+   Leer dato 4
+  Mientras d = 4 hacer
+    Suma - dato 1 + dato 2 + dato 3 + dato 4 
+    Media aritmetica - Suma / 2 
+  SiNo 
+    Escribir "Maximo 4 datos"
+  Fin_Mientras
+Fin
