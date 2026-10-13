@@ -1,0 +1,13 @@
+Algoritmo: Area del rectangulo
+Incio
+  Definir h y g como enteros
+  h:
+   Escribir "Ingrese el valor de h"
+  g:
+   Escribir "Ingrese el valor de g"
+  Si h y g = 0 hacer
+    Area - base * altura
+  Fin_Mientras
+  Presentar
+  Area
+Fin
