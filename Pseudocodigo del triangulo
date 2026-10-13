@@ -8,4 +8,6 @@ Inicio
   Si a y b = 0 hacer
     Area - (base * altura)/2
   Fin_Si
+  Presentar
+  Area
 Fin
