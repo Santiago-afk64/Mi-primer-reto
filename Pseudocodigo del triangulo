@@ -5,9 +5,9 @@ Inicio
     Escribir "Ingrese valor de a"
   b:
     Escribir "Ingrese valor de b"
-  Si a y b = 0 hacer
-    Area - (base * altura)/2
-  Fin_Si
+  Si a y b >= 0 hacer
+    Area <- (base * altura)/2
+  FinSi
   Presentar
   Area
 Fin
