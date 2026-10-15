@@ -5,7 +5,7 @@ Incio
    Escribir "Ingrese el valor de h"
   g:
    Escribir "Ingrese el valor de g"
-  Si h y g = 0 hacer
+  Si h y g >= 0 hacer
     Area <- base * altura
   FinMientras
   Presentar
