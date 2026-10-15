@@ -1,0 +1,17 @@
+Algoritmo factorial_de_un numero
+Inicio
+    Definir a,b,x como entero
+   Escribir "Ingrese un numero entero"
+    Leer a
+ Si a < 0 Entonces
+   Escribir "No existe factorial para numeros negativos"
+  SiNo
+     b=a
+     x=1
+   Mientras b>=1 hacer
+     x=x*a
+     b=b-1
+   FinMientras
+  Escribir "El factorial del numero es:" x
+ FinSI
+Fin
