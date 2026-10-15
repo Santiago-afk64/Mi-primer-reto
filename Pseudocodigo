@@ -3,7 +3,7 @@ Inicio
   Definir n como entero
   Escribir "numero del 1 al 7" 
   Leer n  
-  Mientras n  - 7 hacer
+  Mientras n <- 7 hacer
     1:
       Escribir "Lunes"
     2: 
@@ -20,5 +20,5 @@ Inicio
       Escribir "Domingo"
     SiNo 
       Escribir "Numero fuera del rango"
-  Fin_Mientras
+  FinMientras
 Fin
