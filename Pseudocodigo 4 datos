@@ -9,12 +9,12 @@ Inicio
    Leer dato 3
   Escribir "Ingrese dato 4"
    Leer dato 4
-  Mientras d = 4 hacer
-    Suma - dato 1 + dato 2 + dato 3 + dato 4 
-    Media aritmetica - Suma / 2 
+  Mientras d>=4 hacer
+    Suma <- dato 1 + dato 2 + dato 3 + dato 4 
+    Media aritmetica <- Suma / 2 
   SiNo 
     Escribir "Maximo 4 datos"
-  Fin_Mientras
+  FinMientras
   Presentar
   Suma 
   Media aritmetica
